@@ -1,1 +1,5 @@
 # CMC-ApiConnector
+
+Dependencies:
+
+- Jsoup
